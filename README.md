@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" >
-  <a href="t.me/Tamara_Shashkina">
+  <a href="t.me/@Tamara_Shashkina">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a> 
   <a href="mailto:shashkinata@ya.ru">
