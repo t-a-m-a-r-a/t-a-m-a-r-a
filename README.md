@@ -2,14 +2,18 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjR1M3pvd3lvcnNna256OGQ1czJldm9qeHU4djMyZHk5d3d2aDY4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="175"/>
 </div>
 
-
-
 # Привет, меня зовут Тамара
 
 Имея опыт анализа прочности деталей авиационных двигателей сейчас занимаюсь анализом данных.
 
+### Обучение :
 
----
+<div id="badges" >
+  <a href="https://t.me/Tamara_Shashkina">
+  KARPOV.COURSES Аналитик данных
+  </a> 
+</div>
+
 ### Языки и инструменты :
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
