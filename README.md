@@ -9,7 +9,19 @@
 ### Обучение :
 
 <div id="badges" >
-  <a href="KC_DA_Sertificat.pdf">
+  <a href="STEPIK-Statistics_Cert.pdf">
+  STEPIK Основы статистики
+  </a> 
+ </div>
+  
+<div id="badges" >
+  <a href="STEPIK-Introduction_DS_Cert.pdf">
+  STEPIK Введение в Data Science и машинное обучение
+  </a> 
+ </div>
+  
+<div id="badges" >
+  <a href="KC_DA_Cert.pdf">
   KARPOV.COURSES Аналитик данных
   </a> 
 </div>
@@ -28,7 +40,8 @@
 <div id="badges" >
   <a href="https://t.me/Tamara_Shashkina">
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-  </a> 
+  </a>
+  
   <a href="mailto:shashkinata@ya.ru">
     <img src="https://img.shields.io/badge/Mail-black?style=for-the-badge&logo=Mail&logoColor=white" alt="Mail Badge"/>
   </a>
