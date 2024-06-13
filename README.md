@@ -8,10 +8,11 @@
 
 <div id="badges">
   <a href="https://t.me/Tamara_Shashkina">
-    <img src="https://github.com/badges/shields/blob/master/logo/telegram.svg" height="35" width="35"/>
+    <img src="https://github.com/badges/shields/blob/master/logo/telegram.svg" align="left" height="35" width="35"/>
   </a>  
+
   <a href="mailto:shashkinata@ya.ru">
-    <img src="https://github.com/varlesh/theia-icon-theme/blob/master/icon-source/ru_yandex_mail.svg" height="35" width="35"/>
+    <img src="https://github.com/varlesh/theia-icon-theme/blob/master/icon-source/ru_yandex_mail.svg" align="center" height="35" width="35"/>
   </a>
 </div>
 
