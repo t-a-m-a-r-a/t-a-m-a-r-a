@@ -12,7 +12,7 @@
   </a>  
 
   <a href="mailto:shashkinata@ya.ru">
-    <img src="https://github.com/varlesh/theia-icon-theme/blob/master/icon-source/ru_yandex_mail.svg" align="center" height="35" width="35"/>
+    <img src="https://github.com/varlesh/theia-icon-theme/blob/master/icon-source/ru_yandex_mail.svg" align="center" height="25" width="35"/>
   </a>
 </div>
 
