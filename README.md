@@ -50,6 +50,13 @@
   KARPOV.COURSES Аналитик данных
   </a> 
 </div>
+  
+<div id="badges" >
+  <a href="KC_SimDA_cert.pdf">
+  KARPOV.COURSES Симулятор аналитика
+  </a> 
+</div>
+
 
 
 
