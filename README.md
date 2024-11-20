@@ -1,22 +1,20 @@
 ### Привет, меня зовут Тамара.
 
-Я интересуюсь всем, что связано с данными: обработка, анализ, визуализация.
-
-Этот профиль содержит репозитории с моими проектами.
+Этот профиль содержит репозитории с моими проектами, связанными с анализом данных.
 
 ### Контакты :
 
-<div id="badges">
+<div id="badges" >
   <a href="https://t.me/Tamara_Shashkina">
-    <img src="https://github.com/badges/shields/blob/master/logo/telegram.svg" align="left" height="35" width="35"/>
-  </a>  
-
-  <a href="mailto:shashkinata@ya.ru">
-    <img src="https://github.com/varlesh/theia-icon-theme/blob/master/icon-source/ru_yandex_mail.svg" align="center" height="25" width="35"/>
-  </a>
+  ТЕЛЕГРАМ
+  </a> 
 </div>
 
-
+<div id="badges" >
+  <a href="mailto:shashkinata@ya.ru">
+  ПОЧТА
+  </a> 
+</div>
 
 
 -----
@@ -32,19 +30,7 @@
 
 
 ### Сертификаты :
-
-<div id="badges" >
-  <a href="STEPIK-Statistics_Cert.pdf">
-  STEPIK Основы статистики
-  </a> 
- </div>
-  
-<div id="badges" >
-  <a href="STEPIK-Introduction_DS_Cert.pdf">
-  STEPIK Введение в Data Science и машинное обучение
-  </a> 
- </div>
-  
+ 
 <div id="badges" >
   <a href="KC_DA_Cert.pdf">
   KARPOV.COURSES Аналитик данных
