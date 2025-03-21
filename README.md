@@ -1,4 +1,12 @@
 ### Привет, меня зовут Тамара.
+<div id="badges">
+  <a href="https://t.me/Tamara_Shashkina">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:shashkinata@ya.ru">
+    <img src="https://img.shields.io/badge/mail-orange?style=for-the-badge&logo=mail&logoColor=white" alt="Mail Badge"/>
+  </a>
+</div>
 
 Здесь я публикую репозитории с проектами, связанными с анализом данных.
 
