@@ -2,21 +2,6 @@
 
 Здесь я публикую репозитории с проектами, связанными с анализом данных.
 
-### Контакты :
-
-<div id="badges" >
-  <a href="https://t.me/Tamara_Shashkina">
-  ТЕЛЕГРАМ
-  </a> 
-</div>
-
-<div id="badges" >
-  <a href="mailto:shashkinata@ya.ru">
-  ПОЧТА
-  </a> 
-</div>
-
-
 -----
 ## Языки и инструменты :
 
