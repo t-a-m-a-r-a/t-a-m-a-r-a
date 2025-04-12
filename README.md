@@ -14,7 +14,15 @@
 -----
 ### Языки и инструменты 🛠️
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/topics/python?q=user:t-a-m-a-r-a)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://github.com/topics/pandas?q=user:t-a-m-a-r-a)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://github.com/topics/numpy?q=user:t-a-m-a-r-a)
+[![ClickHouse](https://img.shields.io/badge/ClickHouse-151515?logo=clickhouse&logoColor=white)](https://github.com/topics/clickhouse?q=user:t-a-m-a-r-a)
+[![Superset](https://img.shields.io/badge/Superset-151515?logo=superset&logoColor=white)](https://github.com/topics/superset?q=user:t-a-m-a-r-a)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)](https://github.com/topics/tableau?q=user:t-a-m-a-r-a)
+
+
+
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37726?style=flat-square&logo=Jupyter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-326690?style=flat-square&logo=PostgreSQL&logoColor=white)
